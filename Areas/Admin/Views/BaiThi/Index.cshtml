@@ -1,0 +1,48 @@
+﻿@model IEnumerable<DoAnCoSo.Models.BaiThi>
+
+@{
+    ViewData["Title"] = "Danh sách đề thi";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 class="mt-5 mb-4">@ViewData["Title"]</h1>
+<p>
+    <a asp-action="Add">Thêm bài thi</a>
+</p>
+<div class="table-responsive">
+    <table class="table table-striped table-bordered">
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col">Mã đề thi</th>
+                <th scope="col">Tên đề thi</th>
+                <th scope="col">Thời gian thi</th>
+                <th scope="col">Số lượng câu hỏi</th>
+                <th scope="col">Mô tả</th>
+                <th scope="col"></th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null && Model.Any())
+            {
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => item.MaDe)</td>
+                        <td>@Html.DisplayFor(modelItem => item.TenBaiThi)</td>
+                        <td>@Html.DisplayFor(modelItem => item.ThoiGianLamBai)</td>
+                        <td>@Html.DisplayFor(modelItem => item.SoLuongCauHoi)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Mota)</td>
+                        <td><a class="btn btn-primary" asp-action="Display" asp-route-id="@item.Id">Vào thi</a></td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="4">Không có đề thi.</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a asp-action="Index" asp-controller="Account">Trở về</a>
+</div>

@@ -1,0 +1,117 @@
+﻿@model DoAnCoSo.Models.CauHoi
+
+@{
+    ViewData["Title"] = "Add";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Thêm câu hỏi</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="Add">
+            <div class="form-group">
+                <label asp-for="Mabt" class="control-label">Mã Đề Thi</label>
+                <select asp-for="Mabt" asp-items="ViewBag.DeThis" class="form-control"></select>
+                <span asp-validation-for="Mabt" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cauhoi" class="control-label">Câu Hỏi</label>
+                <textarea asp-for="Cauhoi" id="txt_editor" class="form-control"></textarea>
+                <span asp-validation-for="Cauhoi" class="text-danger"></span>
+            </div>
+
+            <!-- Thêm các field cho Đáp Án A, B, C, D -->
+            <div class="form-group">
+                <label asp-for="DapanA" class="control-label">Đáp Án A</label>
+                <input asp-for="DapanA" class="form-control" />
+                <span asp-validation-for="DapanA" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DapanB" class="control-label">Đáp Án B</label>
+                <input asp-for="DapanB" class="form-control" />
+                <span asp-validation-for="DapanB" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DapanC" class="control-label">Đáp Án C</label>
+                <input asp-for="DapanC" class="form-control" />
+                <span asp-validation-for="DapanC" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DapanD" class="control-label">Đáp Án D</label>
+                <input asp-for="DapanD" class="form-control" />
+                <span asp-validation-for="DapanD" class="text-danger"></span>
+            </div>
+
+            <!-- Field cho Đáp Án Đúng -->
+            <div class="form-group">
+                <label asp-for="Dapan" class="control-label">Đáp Án Đúng</label>
+                <input asp-for="Dapan" class="form-control" />
+                <span asp-validation-for="Dapan" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Thêm" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Trở về</a>
+</div>
+
+@section Scripts {
+    <script src="https://cdn.ckeditor.com/ckeditor5/41.3.1/classic/ckeditor.js"></script>
+@*     <script src="~/vendor/mathtype-ckeditor5/plugin.js"></script>
+ *@
+    <script>
+        ClassicEditor
+            .create(document.querySelector('#txt_editor'), {
+                // plugin: [MathType],
+                // toolbar: {
+                //     items: [
+                //         'heading', '|',
+                //         'bold', 'italic', 'underline', 'link', '|',
+                //         'MathType', 'ChemType', '|',
+                //         'bulletedList', 'numberedList', '|',
+                //         'insertTable', 'blockQuote', 'undo', 'redo', '|',
+                //         'specialCharacters', 'imageUpload'
+                //     ]
+                // },
+                // extraPlugins: [MathType],
+                // image: {
+                //     toolbar: [
+                //         'imageTextAlternative',
+                //         'imageStyle:full',
+                //         'imageStyle:side'
+                //     ]
+                // },
+                specialCharacters: {
+                    categories: [
+                        {
+                            name: 'Mathematical',
+                            characters: [
+                                '∑', '√', 'π', 'θ', '∞', '±', '÷', '×', '≠', '≈', '≡'
+                            ]
+                        },
+                        {
+                            name: 'Arrows',
+                            characters: [
+                                '←', '↑', '→', '↓', '↔', '↕', '↩', '↪'
+                            ]
+                        }
+                    ]
+                }
+            })
+            .then(editor => {
+                window.editor = editor;
+                editor.ui.view.editable.element.style.height = '300px';
+                editor.ui.view.editable.element.style.width = '100%';
+            })
+            .catch(err => {
+                console.error(err.stack);
+            });
+    </script>
+}        

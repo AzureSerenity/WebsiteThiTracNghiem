@@ -1,0 +1,533 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\PasswordUtility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PasswordUtility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Models\\BaiThi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\BaiThi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Models\\CauHoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\CauHoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Models\\ApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\ApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Models\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Views\\User\\DecodePassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\User\\DecodePassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Views\\User\\GetUser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\User\\GetUser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Repositories\\EFBaiThiRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\EFBaiThiRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Models\\KetQua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\KetQua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Areas\\Admin\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Areas\\Admin\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Models\\LichSuLamBai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\LichSuLamBai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Views\\BaiThi\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\BaiThi\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Areas\\Admin\\Views\\Account\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Areas\\Admin\\Views\\Account\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Areas\\Admin\\Controllers\\CauHoiController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Areas\\Admin\\Controllers\\CauHoiController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Areas\\Admin\\Views\\Account\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Areas\\Admin\\Views\\Account\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Models\\ChangePassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\ChangePassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Controllers\\BaiThiController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\BaiThiController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Views\\BaiThi\\KetQua.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\BaiThi\\KetQua.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Areas\\Identity\\Pages\\Account\\Logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Areas\\Identity\\Pages\\Account\\Logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Areas\\Admin\\Views\\Cauhoi\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Areas\\Admin\\Views\\Cauhoi\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Areas\\Admin\\Views\\Cauhoi\\Add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Areas\\Admin\\Views\\Cauhoi\\Add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Views\\BaiThi\\LichSuLamBai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\BaiThi\\LichSuLamBai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Areas\\Admin\\Views\\BaiThi\\Display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Areas\\Admin\\Views\\BaiThi\\Display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-06T06:55:24.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaiThi.cs",
+              "DocumentMoniker": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Models\\BaiThi.cs",
+              "RelativeDocumentMoniker": "Models\\BaiThi.cs",
+              "ToolTip": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Models\\BaiThi.cs",
+              "RelativeToolTip": "Models\\BaiThi.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T03:23:42.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T03:22:49.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T19:47:40.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:30:50.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Views\\User\\GetUser.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\GetUser.cshtml",
+              "ToolTip": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Views\\User\\GetUser.cshtml",
+              "RelativeToolTip": "Views\\User\\GetUser.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T20:27:15.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PasswordUtility.cs",
+              "DocumentMoniker": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\PasswordUtility.cs",
+              "RelativeDocumentMoniker": "PasswordUtility.cs",
+              "ToolTip": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\PasswordUtility.cs",
+              "RelativeToolTip": "PasswordUtility.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:13:53.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAhwFoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T17:29:06.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CauHoi.cs",
+              "DocumentMoniker": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Models\\CauHoi.cs",
+              "RelativeDocumentMoniker": "Models\\CauHoi.cs",
+              "ToolTip": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Models\\CauHoi.cs",
+              "RelativeToolTip": "Models\\CauHoi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:18:12.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DecodePassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Views\\User\\DecodePassword.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\DecodePassword.cshtml",
+              "ToolTip": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Views\\User\\DecodePassword.cshtml",
+              "RelativeToolTip": "Views\\User\\DecodePassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T20:24:28.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EFBaiThiRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Repositories\\EFBaiThiRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFBaiThiRepository.cs",
+              "ToolTip": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Repositories\\EFBaiThiRepository.cs",
+              "RelativeToolTip": "Repositories\\EFBaiThiRepository.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAABkAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:53:48.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KetQua.cs",
+              "DocumentMoniker": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Models\\KetQua.cs",
+              "RelativeDocumentMoniker": "Models\\KetQua.cs",
+              "ToolTip": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Models\\KetQua.cs",
+              "RelativeToolTip": "Models\\KetQua.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:12:41.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T18:43:18.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAwwGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T17:47:46.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LichSuLamBai.cs",
+              "DocumentMoniker": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Models\\LichSuLamBai.cs",
+              "RelativeDocumentMoniker": "Models\\LichSuLamBai.cs",
+              "ToolTip": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Models\\LichSuLamBai.cs",
+              "RelativeToolTip": "Models\\LichSuLamBai.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:16:06.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Views\\BaiThi\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\BaiThi\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Views\\BaiThi\\Index.cshtml",
+              "RelativeToolTip": "Views\\BaiThi\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T15:43:38.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Areas\\Admin\\Views\\Account\\Details.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Account\\Details.cshtml",
+              "ToolTip": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Areas\\Admin\\Views\\Account\\Details.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Account\\Details.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwB8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T17:44:42.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CauHoiController.cs",
+              "DocumentMoniker": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Areas\\Admin\\Controllers\\CauHoiController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CauHoiController.cs",
+              "ToolTip": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Areas\\Admin\\Controllers\\CauHoiController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\CauHoiController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T04:33:44.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAIBJwFMAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T17:33:34.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAIBJwF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T19:50:26.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ChangePassword.cs",
+              "DocumentMoniker": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Models\\ChangePassword.cs",
+              "RelativeDocumentMoniker": "Models\\ChangePassword.cs",
+              "ToolTip": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Models\\ChangePassword.cs",
+              "RelativeToolTip": "Models\\ChangePassword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T03:16:20.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaiThiController.cs",
+              "DocumentMoniker": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Controllers\\BaiThiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BaiThiController.cs",
+              "ToolTip": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Controllers\\BaiThiController.cs",
+              "RelativeToolTip": "Controllers\\BaiThiController.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAkwB8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:06:54.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:59:37.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "KetQua.cshtml",
+              "DocumentMoniker": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Views\\BaiThi\\KetQua.cshtml",
+              "RelativeDocumentMoniker": "Views\\BaiThi\\KetQua.cshtml",
+              "ToolTip": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Views\\BaiThi\\KetQua.cshtml",
+              "RelativeToolTip": "Views\\BaiThi\\KetQua.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T06:50:48.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ResetPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAuwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T02:43:39.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "ToolTip": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBUAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T01:50:44.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBJwAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T01:08:08.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Areas\\Admin\\Views\\Cauhoi\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Cauhoi\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Areas\\Admin\\Views\\Cauhoi\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Cauhoi\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T05:56:46.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Areas\\Admin\\Views\\Cauhoi\\Add.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Cauhoi\\Add.cshtml",
+              "ToolTip": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Areas\\Admin\\Views\\Cauhoi\\Add.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Cauhoi\\Add.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAIBJwAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T05:51:34.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LichSuLamBai.cshtml",
+              "DocumentMoniker": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Views\\BaiThi\\LichSuLamBai.cshtml",
+              "RelativeDocumentMoniker": "Views\\BaiThi\\LichSuLamBai.cshtml",
+              "ToolTip": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Views\\BaiThi\\LichSuLamBai.cshtml",
+              "RelativeToolTip": "Views\\BaiThi\\LichSuLamBai.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T18:46:06.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACUAAAAAAAAAAADwvzoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T18:38:41.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Areas\\Admin\\Views\\BaiThi\\Display.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\BaiThi\\Display.cshtml",
+              "ToolTip": "C:\\Users\\nag13\\OneDrive\\M\u00E1y t\u00EDnh\\Projects\\DoAnCoSo\\Areas\\Admin\\Views\\BaiThi\\Display.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\BaiThi\\Display.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAIBJwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T17:54:44.469Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

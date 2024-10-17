@@ -1,0 +1,15 @@
+﻿@model DoAnCoSo.Models.ApplicationUser
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 style="padding-top: 20px;">User Information</h1>
+
+<div>
+    <h4>Username: @Model.UserName</h4>
+    <h4>Email: @Model.Email</h4>
+    <h4>Password: @Model.PasswordHash</h4>
+    <a asp-controller="User" asp-action="DecodePassword" asp-route-base64EncodedPassword="@Model.Base64EncodedPassword" class="btn btn-primary">Giải mã mật khẩu</a>
+</div>
+

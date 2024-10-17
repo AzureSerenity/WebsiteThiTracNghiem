@@ -1,0 +1,48 @@
+﻿@model IEnumerable<DoAnCoSo.Models.CauHoi>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 style="padding-top: 20px;">Thư viện câu hỏi</h1>
+
+<table class="table">
+    <p>
+        <a asp-action="Add">Thêm câu hỏi</a>
+    </p>
+    <thead>
+        <tr>
+            <th>Mã câu hỏi</th>
+            <th>Đề thi</th>
+            <th>Chọn</th>
+            <th>Câu hỏi</th>
+            <th>A</th>
+            <th>B</th>
+            <th>C</th>
+            <th>D</th>
+            <th>Đáp án</th>
+            <th>Thao tác</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var Cauhoi in Model)
+        {
+            <tr>
+                <td>@Cauhoi.Mach</td>
+                <td>@Cauhoi.Mabt</td>
+                <td><input type="checkbox" name="selectedIds" value="@Cauhoi.Mach" /></td>
+                <td>@Cauhoi.Cauhoi</td>
+                <td>@Cauhoi.DapanA</td>
+                <td>@Cauhoi.DapanB</td>
+                <td>@Cauhoi.DapanC</td>
+                <td>@Cauhoi.DapanD</td>
+                <td>@Cauhoi.Dapan</td>
+                <td>
+                    <a asp-action="Update" asp-route-id="@Cauhoi.Mach">Sửa</a> |
+                    <a asp-action="Delete" asp-route-id="@Cauhoi.Mach">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a asp-action="Index" asp-controller="Account">Trở về</a>
+
